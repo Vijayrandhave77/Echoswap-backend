@@ -79,8 +79,8 @@ const login = async (req, res) => {
     const token = generateToken(payload);
     res.cookie("EchoswapTokenCookies", token, {
       httpOnly: false,
-      secure: false,
-      sameSite: "None",
+      secure: true,
+      sameSite: "Lax",
     });
 
     res.status(200).json({
