@@ -7,9 +7,9 @@ const { generateToken } = require("../JWT");
 
 const CLIENT_ID = process.env.GOOGLE_CLIENT_ID;
 const CLIENT_SECRET = process.env.GOOGLE_CLIENT_SECRET;
-const FRONTEND_URL = process.env.FRONTEND_URL
+const FRONTEND_URL = process.env.FRONTEND_URL;
 const JWT_SECRET = process.env.JWT_SECRET;
-const REDIRECT_URI = "http://localhost:5077/api/auth/google/callback";
+const REDIRECT_URI = `${process.env.VITE_NODE_API}/api/auth/google/callback`;
 
 router.get("/google", (req, res) => {
   const hasGoogleAuth = req.cookies.googleAuth === "true";

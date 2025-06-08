@@ -82,3 +82,54 @@ server is running on 5077
 ✅ User connected: w6SzQeTnofGdrIwjAAAB userId: 68261782828606d5cc12568a
 Connected users: { '68261782828606d5cc12568a': 'w6SzQeTnofGdrIwjAAAB' }
 mongodb server is connected
+server is running on 5077
+✅ User connected: 88UIzEbYgdxUqe4UAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '88UIzEbYgdxUqe4UAAAB' }
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+✅ User connected: xMxflqPHZn2fvwOyAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'xMxflqPHZn2fvwOyAAAB' }
+❌ Disconnected: xMxflqPHZn2fvwOyAAAB
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+ReferenceError: VITE_NODE_API is not defined
+    at Object.<anonymous> (D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\routes\GoogleAuth.js:12:22)
+    at Module._compile (node:internal/modules/cjs/loader:1554:14)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+ReferenceError: VITE_NODE_API is not defined
+    at Object.<anonymous> (D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\routes\GoogleAuth.js:12:22)
+    at Module._compile (node:internal/modules/cjs/loader:1554:14)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+ReferenceError: VITE_NODE_API is not defined
+    at Object.<anonymous> (D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\routes\GoogleAuth.js:12:22)
+    at Module._compile (node:internal/modules/cjs/loader:1554:14)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+server is running on 5077
+mongodb server is connected
