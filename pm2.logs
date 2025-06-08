@@ -188,3 +188,25 @@ server is running on 5077
 mongodb server is connected
 server is running on 5077
 mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+✅ User connected: nFKbgb57ii8QBHKGAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'nFKbgb57ii8QBHKGAAAB' }
+❌ Disconnected: nFKbgb57ii8QBHKGAAAB
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+✅ User connected: RwkD8zKFyXwj0xDeAAAD userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'RwkD8zKFyXwj0xDeAAAD' }
+❌ Disconnected: RwkD8zKFyXwj0xDeAAAD
+✅ User connected: fulcIFCfc6UbjmL7AAAF userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'fulcIFCfc6UbjmL7AAAF' }
+server is running on 5077
+✅ User connected: SXDZeq2KaF0SuKNQAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'SXDZeq2KaF0SuKNQAAAB' }
+mongodb server is connected

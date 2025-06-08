@@ -81,6 +81,8 @@ const login = async (req, res) => {
       httpOnly: false,
       secure: true,
       sameSite: "None",
+      domain: undefined,
+      path: "/",
     });
 
     res.status(200).json({
