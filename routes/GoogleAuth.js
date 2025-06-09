@@ -68,6 +68,8 @@ router.get("/google/callback", async (req, res) => {
 
     res.cookie("googleAuth", "true", {
       httpOnly: false,
+      secure: true,
+      sameSite: "None",
     });
 
     res.redirect(`${FRONTEND_URL}/login-success?token=${token}`);
