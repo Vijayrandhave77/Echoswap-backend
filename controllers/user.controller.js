@@ -95,7 +95,11 @@ const login = async (req, res) => {
 };
 
 const logout = (req, res) => {
-  res.clearCookie("EchoswapTokenCookies");
+  res.clearCookie("EchoswapTokenCookies", {
+    httpOnly: true,
+    secure: true,
+    sameSite: "None",
+  });
   res.json({ message: "Logged out successfully" });
 };
 
