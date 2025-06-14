@@ -25,6 +25,10 @@ const sendMessage = async (req, res) => {
       reciverId,
       message,
     });
+
+    const notiFicationMessage = await Message.findOne({ _id: newMessage._id })
+      .populate("senderId", "-password")
+      .populate("reciverId", "-password");
     if (newMessage) {
       gotConversation.messages.push(newMessage._id);
     }
@@ -34,7 +38,7 @@ const sendMessage = async (req, res) => {
     // SOCKET IO
     const receiverSocketId = getReceiverSocketId(reciverId);
     if (receiverSocketId) {
-      io.to(receiverSocketId).emit("newMessage", newMessage);
+      io.to(receiverSocketId).emit("newMessage", notiFicationMessage);
     }
 
     await Notification.create({

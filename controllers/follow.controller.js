@@ -21,18 +21,19 @@ const followUser = async (req, res) => {
         following: followingId,
       });
 
-      await Notification.create({
+      const notifi = await Notification.create({
         senderId: followerId,
         reciverId: followingId,
         type: "follow",
       });
 
+      const populatedNotification = await Notification.findById(notifi._id)
+        .populate("senderId", "name picture")
+        .populate("reciverId", "name picture");
       const receiverSocketId = getReceiverSocketId(followingId);
       if (receiverSocketId) {
         io.to(receiverSocketId).emit("getNotification", {
-          senderId: followerId,
-          type: "follow",
-          createdAt: new Date(),
+          notification: populatedNotification,
         });
       }
 
