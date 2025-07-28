@@ -2,7 +2,7 @@ const { fileUploads } = require("../GeneralHelper/filesHelper");
 const { generateToken } = require("../JWT");
 const jwt = require("jsonwebtoken");
 const sendEmail = require("../mailer");
-const addToQueue = require("../jobs/queue");
+// const addToQueue = require("../jobs/queue");
 const User = require("../models/users.schema");
 const signup = async (req, res) => {
   try {
