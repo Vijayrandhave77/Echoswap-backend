@@ -804,3 +804,29 @@ SyntaxError: await is only valid in async functions and the top level bodies of 
     at require (node:internal/modules/helpers:136:16)
 server is running on 5077
 mongodb server is connected
+server is running on 5077
+mongodb server is connected
+✅ User connected: vfZYG4llv6jMw6AMAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'vfZYG4llv6jMw6AMAAAB' }
+❌ Disconnected: vfZYG4llv6jMw6AMAAAB
+Payment verified
+✅ User connected: 3essmIz5FfIod0s6AAAD userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '3essmIz5FfIod0s6AAAD' }
+❌ Disconnected: 3essmIz5FfIod0s6AAAD
+✅ User connected: RqBlMDJPwmMN032YAAAF userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'RqBlMDJPwmMN032YAAAF' }
+❌ Disconnected: RqBlMDJPwmMN032YAAAF
+✅ User connected: 3en9cXSIYeScAyhoAAAH userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '3en9cXSIYeScAyhoAAAH' }
+server is running on 5077
+mongodb server is connected
+✅ User connected: siTIApZN-bbA9nwAAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'siTIApZN-bbA9nwAAAAB' }
+server is running on 5077
+✅ User connected: V64Bpay_Rh3wDwZhAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'V64Bpay_Rh3wDwZhAAAB' }
+mongodb server is connected
+server is running on 5077
+✅ User connected: LYaR8s0PuKcUgtIFAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'LYaR8s0PuKcUgtIFAAAB' }
+mongodb server is connected
