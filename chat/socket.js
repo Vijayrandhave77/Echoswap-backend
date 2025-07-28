@@ -38,4 +38,4 @@ io.on("connection", (socket) => {
   });
 });
 
-module.exports = { app, server, io,getReceiverSocketId };
+module.exports = { app, server, io,getReceiverSocketId,express };

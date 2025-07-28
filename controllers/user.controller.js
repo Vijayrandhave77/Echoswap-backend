@@ -2,7 +2,7 @@ const { fileUploads } = require("../GeneralHelper/filesHelper");
 const { generateToken } = require("../JWT");
 const jwt = require("jsonwebtoken");
 const sendEmail = require("../mailer");
-
+const addToQueue = require("../jobs/queue");
 const User = require("../models/users.schema");
 const signup = async (req, res) => {
   try {
@@ -32,6 +32,18 @@ const signup = async (req, res) => {
       month: "long",
       day: "numeric",
     });
+
+    // await addToQueue("sendEmail", {
+    //   name: user.name,
+    //   email: user.email,
+    //   subject: "Welcome to Our App!",
+    //   signupDate,
+    //   year: new Date().getFullYear(),
+    //   expireMinutes: 10,
+    //   loginUrl: `${process.env.FRONTEND_URL}/login`,
+    //   templateName: "welcome",
+    //   sendTo: user.email,
+    // });
 
     sendEmail("welcome", user.email, {
       name: user.name,

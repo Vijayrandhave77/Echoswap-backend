@@ -1,0 +1,806 @@
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+✅ User connected: NjvspR0N8amfIvtfAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'NjvspR0N8amfIvtfAAAB' }
+server is running on 5077
+✅ User connected: aA5wQTCdzM2b4cVlAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'aA5wQTCdzM2b4cVlAAAB' }
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+✅ User connected: 6jnl7WzSvP0KFSbEAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '6jnl7WzSvP0KFSbEAAAB' }
+❌ Disconnected: 6jnl7WzSvP0KFSbEAAAB
+✅ User connected: fQTIuttZsfAqnpUUAAAD userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'fQTIuttZsfAqnpUUAAAD' }
+❌ Disconnected: fQTIuttZsfAqnpUUAAAD
+✅ User connected: XYnQq8kZem7ysblGAAAF userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'XYnQq8kZem7ysblGAAAF' }
+❌ Disconnected: XYnQq8kZem7ysblGAAAF
+✅ User connected: 0fzKKhMIHuFdq1doAAAH userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '0fzKKhMIHuFdq1doAAAH' }
+❌ Disconnected: 0fzKKhMIHuFdq1doAAAH
+✅ User connected: DnMAKOetM_hQfq2AAAAJ userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'DnMAKOetM_hQfq2AAAAJ' }
+server is running on 5077
+✅ User connected: D1xxTumA-oemPpzmAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'D1xxTumA-oemPpzmAAAB' }
+mongodb server is connected
+❌ Disconnected: D1xxTumA-oemPpzmAAAB
+✅ User connected: -rtkTmIkes6cX1PoAAAD userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '-rtkTmIkes6cX1PoAAAD' }
+Error adding to cart: ReferenceError: Product is not defined
+    at addToCart (D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\cart.controller.js:23:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+Error adding to cart: ReferenceError: Product is not defined
+    at addToCart (D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\cart.controller.js:23:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+Error adding to cart: ReferenceError: Product is not defined
+    at addToCart (D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\cart.controller.js:23:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+Error adding to cart: ReferenceError: Product is not defined
+    at addToCart (D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\cart.controller.js:23:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+❌ Disconnected: -rtkTmIkes6cX1PoAAAD
+server is running on 5077
+server is running on 5077
+mongodb server is connected
+✅ User connected: pLhMGdng31thq5qdAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'pLhMGdng31thq5qdAAAB' }
+❌ Disconnected: pLhMGdng31thq5qdAAAB
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+✅ User connected: 5wbwpheS4diaUltcAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '5wbwpheS4diaUltcAAAB' }
+❌ Disconnected: 5wbwpheS4diaUltcAAAB
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+server is running on 5077
+mongodb server is connected
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+✅ User connected: qA8lzPaYmd7pxuR9AAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'qA8lzPaYmd7pxuR9AAAB' }
+❌ Disconnected: qA8lzPaYmd7pxuR9AAAB
+server is running on 5077
+mongodb server is connected
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+JWT Error: jwt malformed
+✅ User connected: nuTesqwmnmB6xabxAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'nuTesqwmnmB6xabxAAAB' }
+❌ Disconnected: nuTesqwmnmB6xabxAAAB
+✅ User connected: YsB73g-erpKayDcSAAAD userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'YsB73g-erpKayDcSAAAD' }
+❌ Disconnected: YsB73g-erpKayDcSAAAD
+✅ User connected: L22L21alnA9MidCAAAAF userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'L22L21alnA9MidCAAAAF' }
+❌ Disconnected: L22L21alnA9MidCAAAAF
+✅ User connected: S4JgXWuFeqceP-YRAAAH userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'S4JgXWuFeqceP-YRAAAH' }
+❌ Disconnected: S4JgXWuFeqceP-YRAAAH
+✅ User connected: km7o9J1GE11bnDA4AAAJ userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'km7o9J1GE11bnDA4AAAJ' }
+❌ Disconnected: km7o9J1GE11bnDA4AAAJ
+✅ User connected: -eLICSZ8903jyymaAAAL userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '-eLICSZ8903jyymaAAAL' }
+❌ Disconnected: -eLICSZ8903jyymaAAAL
+✅ User connected: ulrZabj4HKmgDDSoAAAN userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'ulrZabj4HKmgDDSoAAAN' }
+❌ Disconnected: ulrZabj4HKmgDDSoAAAN
+✅ User connected: iEac2sUwv2IM39qxAAAP userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'iEac2sUwv2IM39qxAAAP' }
+❌ Disconnected: iEac2sUwv2IM39qxAAAP
+✅ User connected: FBxAE94dvF7HTZZsAAAR userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'FBxAE94dvF7HTZZsAAAR' }
+❌ Disconnected: FBxAE94dvF7HTZZsAAAR
+✅ User connected: S-AN4PZyNcmOm83VAAAT userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'S-AN4PZyNcmOm83VAAAT' }
+❌ Disconnected: S-AN4PZyNcmOm83VAAAT
+✅ User connected: pjypjhKZnjeNtLAFAAAV userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'pjypjhKZnjeNtLAFAAAV' }
+❌ Disconnected: pjypjhKZnjeNtLAFAAAV
+✅ User connected: cFf2cc8B2xR5OQm1AAAX userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'cFf2cc8B2xR5OQm1AAAX' }
+❌ Disconnected: cFf2cc8B2xR5OQm1AAAX
+✅ User connected: 1OrLUP-u2QPqJ3xBAAAZ userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '1OrLUP-u2QPqJ3xBAAAZ' }
+❌ Disconnected: 1OrLUP-u2QPqJ3xBAAAZ
+✅ User connected: VcWnhpukEqT54aPCAAAb userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'VcWnhpukEqT54aPCAAAb' }
+❌ Disconnected: VcWnhpukEqT54aPCAAAb
+✅ User connected: X5QnUlXtniLUW4hOAAAd userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'X5QnUlXtniLUW4hOAAAd' }
+server is running on 5077
+mongodb server is connected
+✅ User connected: zpbXVO3ZDmj6ml9yAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'zpbXVO3ZDmj6ml9yAAAB' }
+❌ Disconnected: zpbXVO3ZDmj6ml9yAAAB
+✅ User connected: D2edOgsU8VG6p6raAAAD userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'D2edOgsU8VG6p6raAAAD' }
+❌ Disconnected: D2edOgsU8VG6p6raAAAD
+✅ User connected: 71DUi2s9fG5FLC5QAAAF userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': '71DUi2s9fG5FLC5QAAAF' }
+❌ Disconnected: 71DUi2s9fG5FLC5QAAAF
+server is running on 5077
+mongodb server is connected
+✅ User connected: Fd1H7wYat0jq7IVpAAAB userId: 68261782828606d5cc12568a
+Connected users: { '68261782828606d5cc12568a': 'Fd1H7wYat0jq7IVpAAAB' }
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:37
+      res.status(200).json({ success: true, message: "Payment Verified" });
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:39
+      res.status(200).json({ success: true, message: "Payment Verified" });
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:39
+      res.status(200).json({ success: true, message: "Payment Verified" });
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:39
+      res.status(200).json({ success: true, message: "Payment Verified" });
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:39
+      res.status(200).json({ success: true, message: "Payment Verified" });
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:39
+      res.status(200).json({ success: true, message: "Payment Verified" });
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData
+            ^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+D:\Programming\WEB DEVELOPMENT\frontend and backend\Pending-Projects\EchoSwap\backend\controllers\order.controller.js:38
+      const deleteCartData = await Cart.drop()
+                             ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+    at Module._compile (node:internal/modules/cjs/loader:1528:20)
+    at Object..js (node:internal/modules/cjs/loader:1706:10)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1311:12)
+    at Hook._require.Module.require (C:\Users\vihay\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:136:16)
+server is running on 5077
+mongodb server is connected
