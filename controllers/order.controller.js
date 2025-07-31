@@ -106,7 +106,7 @@ const webhookOrderStatus = async (req, res) => {
         status: status,
       },
     });
-    res.status(200).json({ message: "status update successfully", data });
+    res.status(200).json({ message: "status update successfully", orderData });
   } catch (error) {
     res.status(500).json(error);
   }
