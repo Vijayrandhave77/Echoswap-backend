@@ -96,19 +96,30 @@ const getOrderById = async (req, res) => {
 
 const webhookOrderStatus = async (req, res) => {
   try {
-    const { status, order_id } = req.body.payload.payment.entity;
-    const query = {
-      orderId: order_id,
-    };
+    console.log("🔔 Webhook Body:", JSON.stringify(req.body, null, 2));
+
+    const entity = req.body?.payload?.payment?.entity;
+
+    if (!entity) {
+      return res
+        .status(400)
+        .json({ message: "Invalid webhook payload structure" });
+    }
+
+    const { status, order_id } = entity;
+
+    const query = { orderId: order_id };
 
     const orderData = await Order.updateOne(query, {
-      $set: {
-        status: status,
-      },
+      $set: { status },
     });
-    res.status(200).json({ message: "status update successfully", orderData });
+
+    res
+      .status(200)
+      .json({ message: "Status updated successfully", data: orderData });
   } catch (error) {
-    res.status(500).json(error);
+    console.error("❌ Webhook Error:", error);
+    res.status(500).json({ message: "Internal Server Error", error });
   }
 };
 

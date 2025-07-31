@@ -15,6 +15,6 @@ router.post(
   verificationController
 );
 router.get("/:id", jwtAuthMiddleware, getOrderById);
-router.post("/webhook/order/status", jwtAuthMiddleware, webhookOrderStatus);
+router.post("/webhook/order/status", webhookOrderStatus);
 
 module.exports = router;
