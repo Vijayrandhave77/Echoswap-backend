@@ -96,8 +96,17 @@ const getOrderById = async (req, res) => {
 
 const webhookOrderStatus = async (req, res) => {
   try {
-    const data = req.body;
-    console.log("+============body", data);
+    const { status, order_id } = req.body.payload.payment.entity;
+    const query = {
+      orderId: order_id,
+    };
+
+    const orderData = await Order.updateOne(query, {
+      $set: {
+        status: status,
+      },
+    });
+    res.status(200).json({ message: "status update successfully", data });
   } catch (error) {
     res.status(500).json(error);
   }
