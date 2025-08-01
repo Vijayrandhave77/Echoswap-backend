@@ -40,6 +40,16 @@ const OrderController = async (req, res) => {
   }
 };
 
+const getAllOrder = async (req, res) => {
+  try {
+    const user = req.user.id;
+    const Orders = await Order.find({ user: user });
+    res.status(200).json({ message: "Orders", orders: Orders });
+  } catch (error) {
+    res.status(500).json(error);
+  }
+};
+
 const verificationController = async (req, res) => {
   try {
     const { razorpay_order_id, razorpay_payment_id, razorpay_signature } =
@@ -96,8 +106,6 @@ const getOrderById = async (req, res) => {
 
 const webhookOrderStatus = async (req, res) => {
   try {
-    console.log("🔔 Webhook Body:", JSON.stringify(req.body, null, 2));
-
     const entity = req.body?.payload?.payment?.entity;
 
     if (!entity) {
@@ -125,6 +133,7 @@ const webhookOrderStatus = async (req, res) => {
 
 module.exports = {
   OrderController,
+  getAllOrder,
   verificationController,
   getOrderById,
   webhookOrderStatus,

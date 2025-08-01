@@ -15,8 +15,8 @@ const orderSchema = new mongoose.Schema(
     },
     status: {
       type: String,
-      enum: ["paid", "created", "attempted"],
-      default: "pending",
+      enum: ["captured", "created", "failed"],
+      default: "captured",
     },
     products: [
       {
